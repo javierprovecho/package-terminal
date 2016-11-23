@@ -10,8 +10,8 @@
     "dependencies": {
         "q": "1.0.1",
         "lodash": "2.4.1",
-        "https://github.com/javierprovecho/shux": "0.2.1",
-        "https://github.com/CodeboxIDE/sh.js": "1.1.1"
+        "shux": "javierprovecho/shux",
+        "sh.js": "javierprovecho/sh.js"
     },
     "packageDependencies": {
         "tabs": "CodeboxIDE/package-tabs"
